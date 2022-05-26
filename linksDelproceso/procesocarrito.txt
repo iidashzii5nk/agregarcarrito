@@ -1,0 +1,33 @@
+CONEXION CON PDO CARPETA AGREGAR AL CARRITO TODO EL PROCESO
+
+El 3 video es crear la BD desde PHPMYADMIN
+
+https://www.youtube.com/watch?v=Cf3vcgEYtPE&list=PLSuKjujFoGJ0XF_Gv0VpiTHxAtO7LL8jl&index=5&ab_channel=Develoteca -> ¿Cómo HACER un CARRITO de COMPRAS en PHP y mysql desde CERO?// 4 Conexión
+
+https://www.youtube.com/watch?v=_sf4mR1IgW4&list=PLSuKjujFoGJ0XF_Gv0VpiTHxAtO7LL8jl&index=6&ab_channel=Develoteca -> (5) Seleccionar datos
+
+https://www.youtube.com/watch?v=pkHWNGPhH4M&list=PLSuKjujFoGJ0XF_Gv0VpiTHxAtO7LL8jl&index=6&ab_channel=Develoteca -> (6) Mostrando datos
+
+EL VIDEO 7 ES PARA CREAR EL POPOVER
+
+https://www.youtube.com/watch?v=CNoGejdD668&list=PLSuKjujFoGJ0XF_Gv0VpiTHxAtO7LL8jl&index=8&ab_channel=Develoteca -> (8)Encriptar datos crear formulario para enviar los datos al carrito
+
+https://www.youtube.com/watch?v=p5ZJ1duw4Z4&list=PLSuKjujFoGJ0XF_Gv0VpiTHxAtO7LL8jl&index=10&ab_channel=Develoteca -> (9)(Desencriptar AES) no desencripte solo optuve los datos del fomr
+
+https://www.youtube.com/watch?v=mC4prJ4QFWk&list=PLSuKjujFoGJ0XF_Gv0VpiTHxAtO7LL8jl&index=10&ab_channel=Develoteca -> (10) Variable de sesión para almacenar como en el ejemplo del login que identifique que usuario esta
+en este caso identifica con la variable de session[] identifica cada producto como en el login identificar cada usuario y guardar ese producto individulamente
+
+https://www.youtube.com/watch?v=R1jLSP_RWDs&list=PLSuKjujFoGJ0XF_Gv0VpiTHxAtO7LL8jl&index=11&ab_channel=Develoteca -> (11) leer lo Aca solo en el form desaparecimos el fomr con hidden
+y creamos el archivo mostrarCarrito.php y como tal la pagina en la cual visualizaremos los producto
+
+https://www.youtube.com/watch?v=rqYhZGskLfI&list=PLSuKjujFoGJ0XF_Gv0VpiTHxAtO7LL8jl&index=12&ab_channel=Develoteca -> (12) Tabla del carrito sin llamar los datos
+
+https://www.youtube.com/watch?v=Q8y-Hh-QEC8&list=PLSuKjujFoGJ0XF_Gv0VpiTHxAtO7LL8jl&index=13&ab_channel=Develoteca (13)Compras Aca si llamamos los datos y sumamos el precio
+
+
+https://www.youtube.com/watch?v=p3X7HnuP5W4&list=PLSuKjujFoGJ0XF_Gv0VpiTHxAtO7LL8jl&index=14&ab_channel=Develoteca -> (14) Borrar productos
+
+https://www.youtube.com/watch?v=tQYC4tnYNCY&list=PLSuKjujFoGJ0XF_Gv0VpiTHxAtO7LL8jl&index=15&ab_channel=Develoteca -> (15)Cantidad de productos no agregar el mismo producto
+
+LOS TUTOS QUE HAY QUE HACER ES HATA EL ->15<- 
+
